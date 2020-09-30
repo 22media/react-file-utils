@@ -1,7 +1,7 @@
 // @flow
 import * as React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { default as BigFileIcon, defaultStyles } from 'react-file-icon';
+import { FileIcon as BigFileIcon, defaultStyles } from 'react-file-icon';
 import {
   faFileWord,
   faFileExcel,
